@@ -1,4 +1,4 @@
 Welcome to MyProject
 
-Author: Naos Belay Gebirekiristos
+Author: Naos Babi Belay Gebirekiristos
 @L0ng_pause
