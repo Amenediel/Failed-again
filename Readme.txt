@@ -1,4 +1,4 @@
 Welcome to MyProject
 
-Author: Naos Belay
+Author: Naos Babi Belay
 @L0ng_pause
